@@ -12,7 +12,7 @@ Software for our two VEX U V5 competition robots, **Alpha** and **Beta**. Includ
 
 ### 🤖🏥 MCE-RRandD
 
-Our research and development repository for **Mitch**, a medical-purpose robot. Uses OpenCV and YuNet for real-time face detection and tracking.
+Our research and development repository for **Mitch**, a medical-purpose robot. 
 
 ### 🌐 MCE-Website
 
